@@ -31,3 +31,4 @@ As future data scientists, we enjoyed the "learning-by-doing" philosophy of this
 
 *Students of the MSc "Data Science for Business", between HEC Paris and Ecole polytechnique.*
 
+Original : https://github.com/cnielly/IBT-Prediction
